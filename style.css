@@ -35,3 +35,11 @@ nav ul{
     background-color: #f4f4f4;
     padding: 20px;
 }
+
+#sidebar{
+    width: 30%;
+    height: 100%;
+    background-color: #f4f4f4;
+    padding: 20px;
+    float: right;
+}
